@@ -7,4 +7,6 @@ Forms are disabled layout previews. Guide buttons only reveal local explanatory 
 All copy is draft. Dates, prices, staff details, credentials, images, policies and claims require review before launch. Do not publish before the partnership is confirmed and the required approvals are obtained.
 Photography placements are suggested shot labels inferred from the design; the exact owner shoot list was not supplied to this build.
 The original logo SVG paths and Google Fonts URL were retained from liveolapono.com.
-PAGES: index.html, skin.html, optimize.html, garden.html, team.html, boutique.html, guides.html, offers/dr-a-tox.html, faq.html, visit.html, privacy.html.
+PAGES: index.html, skin.html, optimize.html, parties.html, team.html, boutique.html, guides.html, offers/dr-a-tox.html, faq.html, visit.html, privacy.html.
+
+Parties update: parties.html is active. garden-later.html is retained as an unlinked future chapter.
